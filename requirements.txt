@@ -1,6 +1,0 @@
-# The forensic extractor (tools/ulog_forensic_extractor.py) uses ONLY the Python
-# standard library (3.8+). No install needed to reproduce the findings.
-#
-# matplotlib is required solely for the optional flight-reconstruction figure
-# (tools/plot_flight_profile.py).
-matplotlib>=3.5
